@@ -1,1 +1,25 @@
 /* Add CSS Styling */
+
+.dft {
+    background-color: rgb(227, 135, 135);
+    color: black;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#blu {
+    color: rgb(0, 0, 247);
+    font-size: 36px;
+}
+
+
+
+#gre {
+    background-color: rgb(133, 231, 133);
+    font-size: 24px;
+    font-weight: bold;
+
+}
+
+.size {
+    font-size: 24px;
+}
